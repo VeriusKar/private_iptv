@@ -1,0 +1,703 @@
+#EXTINF:-1 tvg-id="21TV.am" tvg-name="21TV" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/hbkWdwn.png" tvg-url="" group-title="Armenia",21TV (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s10/index.m3u8
+#EXTINF:-1 tvg-id="5TV.am" tvg-name="5TV" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/yigw9dr.png" tvg-url="" group-title="Armenia",5TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s6/04.m3u8
+#EXTINF:-1 tvg-id="Amga.am" tvg-name="Amga" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/3vQVwUV.jpg" tvg-url="" group-title="Armenia",Amga
+https://streamer1.connectto.com/AMGA_WEB_1202/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="AraratTV.am" tvg-name="Ararat TV" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/nCdGhjB.png" tvg-url="" group-title="Armenia",Ararat TV (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s6/index.m3u8
+#EXTINF:-1 tvg-id="Armenia1.am" tvg-name="Armenia 1" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/MKVkDVo.png" tvg-url="" group-title="Armenia",Armenia 1
+http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="Armenia1.am" tvg-name="Armenia 1" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/MKVkDVo.png" tvg-url="" group-title="Armenia",Armenia 1
+http://amtv1.livestreamingcdn.com/am2abr/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-id="Armenia2.am" tvg-name="Armenia 2" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/XwbLfqd.png" tvg-url="" group-title="Armenia",Armenia 2 (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s22/index.m3u8
+#EXTINF:-1 tvg-id="Armenia3.am" tvg-name="Armenia 3" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/AhX46e5.png" tvg-url="" group-title="Armenia",Armenia 3 (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s42/index.m3u8
+#EXTINF:-1 tvg-id="Armenia4.am" tvg-name="Armenia 4" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/pvF7dGN.png" tvg-url="" group-title="Armenia",Armenia 4 (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s32/index.m3u8
+#EXTINF:-1 tvg-id="Armenia5.am" tvg-name="Armenia 5" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/XjhkUXy.png" tvg-url="" group-title="Armenia",Armenia 5 (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s46/index.m3u8
+#EXTINF:-1 tvg-id="Armenia6.am" tvg-name="Armenia 6" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/fRfGuQg.png" tvg-url="" group-title="Armenia",Armenia 6 (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s66/index.m3u8
+#EXTINF:-1 tvg-id="ArmeniaPremium.am" tvg-name="Armenia Premium" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/IxOFvqz.png" tvg-url="" group-title="Armenia",Armenia Premium (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s83/index.m3u8
+#EXTINF:-1 tvg-id="ArmeniaTV.am" tvg-name="Armenia TV" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/fnoOw8T.png" tvg-url="" group-title="Armenia",Armenia TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s4/index.m3u8
+#EXTINF:-1 tvg-id="ArmNews.am" tvg-name="ArmNews" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/0vrFGY5.png" tvg-url="" group-title="Armenia",ArmNews (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s11/index.m3u8
+#EXTINF:-1 tvg-id="ATV.am" tvg-name="ATV" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/Atvnew.png" tvg-url="" group-title="Armenia",ATV (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s8/index.m3u8
+#EXTINF:-1 tvg-id="ATVBazmoc.am" tvg-name="ATV Bazmoc" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/mrfm9uY.png" tvg-url="" group-title="Armenia",ATV Bazmoc (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s74/index.m3u8
+#EXTINF:-1 tvg-id="ATVFilmzone.am" tvg-name="ATV Filmzone" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/uWBrDpV.png" tvg-url="" group-title="Armenia",ATV Filmzone (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s48/index.m3u8
+#EXTINF:-1 tvg-id="ATVHay.am" tvg-name="ATV Hay" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/KCkzU5R.png" tvg-url="" group-title="Armenia",ATV Hay (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s73/index.m3u8
+#EXTINF:-1 tvg-id="ATVKinoman.am" tvg-name="ATV Kinoman" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/lidNHkH.png" tvg-url="" group-title="Armenia",ATV Kinoman (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s94/index.m3u8
+#EXTINF:-1 tvg-id="ATVTava.am" tvg-name="ATV Tava" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/cndJCRU.png" tvg-url="" group-title="Armenia",ATV Tava (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s53/index.m3u8
+#EXTINF:-1 tvg-id="H2.am" tvg-name="H2" tvg-country="AM" tvg-language="Armenian" tvg-logo="http://www.coolstreaming.us/img/ch/image3021371737.jpg" tvg-url="" group-title="Armenia",H2 (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s2/index.m3u8
+#EXTINF:-1 tvg-id="H3TV.am" tvg-name="H3 TV" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/AMUR14B.png" tvg-url="" group-title="Armenia",H3 TV (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s12/index.m3u8
+#EXTINF:-1 tvg-id="KentronTV.am" tvg-name="Kentron TV" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/g7pEQG6.png" tvg-url="" group-title="Armenia",Kentron TV (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s5/index.m3u8
+#EXTINF:-1 tvg-id="RadioVan1030FMYerevan.am" tvg-name="Radio Van 103.0 FM (Yerevan)" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/zYO4KjA.jpg" tvg-url="" group-title="Armenia",Radio Van 103.0 FM (Yerevan) (720p)
+http://stream.radiovan.fm/stream/index.m3u8
+#EXTINF:-1 tvg-id="ShantTV.am" tvg-name="Shant TV" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/EbqVba3.png" tvg-url="" group-title="Armenia",Shant TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s3/index.m3u8
+#EXTINF:-1 tvg-id="Shoghakat.am" tvg-name="Shoghakat" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/e4VxCnn.png" tvg-url="" group-title="Armenia",Shoghakat (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s13/index.m3u8
+#EXTINF:-1 tvg-id="SONGTVArmenia.am" tvg-name="SONGTV Armenia" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/iiw909y.png" tvg-url="" group-title="Armenia",SONGTV Armenia
+http://songtvam.ru:8060/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="TBNArmenia.am" tvg-name="TBN Armenia" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/zdJeT34.jpg" tvg-url="" group-title="Armenia",TBN Armenia (1080p)
+http://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/index_500_av-p.m3u8
+#EXTINF:-1 tvg-id="TBNArmenia.am" tvg-name="TBN Armenia" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/zdJeT34.jpg" tvg-url="" group-title="Armenia",TBN Armenia (1080p)
+https://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/master.m3u8
+#EXTINF:-1 tvg-id="TVMChannel.ru" tvg-name="TVMChannel" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",TVMChannel (576p)
+http://149.154.68.132:8081/HOLA/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMChannel.ru" tvg-name="TVMChannel" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",TVMChannel (720p)
+https://strm.yandex.ru/kal/tvm_supres/tvm_supres0.m3u8
+#EXTINF:-1 tvg-id="UltoTV.ru" tvg-name="Ulto TV" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/r3ARFu5.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Ulto TV (720p)
+http://ultotv.ru:8888/live/uhd/playlist.m3u8
+#EXTINF:-1 tvg-id="UniverTV.ru" tvg-name="Univer TV" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Univer TV (720p)
+http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="UniverTV.ru" tvg-name="Univer TV" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Univer TV (576p)
+http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="UniverTV.ru" tvg-name="Univer TV" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Univer TV (1080p)
+https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="VIVARussia.ru" tvg-name="VIVA Russia" tvg-country="RU" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/VIVA_2011_logo.svg/1280px-VIVA_2011_logo.svg.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",VIVA Russia
+http://195.9.195.19:8001/hls2/vivarussia/index.m3u8
+#EXTINF:-1 tvg-id="VIVARussia.ru" tvg-name="VIVA Russia" tvg-country="RU" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/VIVA_2011_logo.svg/1280px-VIVA_2011_logo.svg.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",VIVA Russia
+https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
+#EXTINF:-1 tvg-id="Zigfreed.ru" tvg-name="Zigfreed" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Zigfreed
+http://zigfreed.ru:8080/Z!/index.m3u8
+#EXTINF:-1 tvg-id="AvtoPlyus.ru" tvg-name="Авто Плюс" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Авто Плюс
+https://s4.idata.uz/avtoplyus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Aris24.ru" tvg-name="Арис 24" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Арис 24 (720p)
+http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
+#EXTINF:-1 tvg-id="Arsenal.ru" tvg-name="Арсенал" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Арсенал (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s68/index.m3u8
+#EXTINF:-1 tvg-id="Arhyz24.ru" tvg-name="Архыз 24" tvg-country="RU" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/LOGO_ARKHYZ24.tif/lossy-page1-1200px-LOGO_ARKHYZ24.tif.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Архыз 24 (1080p)
+https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
+#EXTINF:-1 tvg-id="Arhyz24.ru" tvg-name="Архыз 24" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Архыз 24 (720p)
+https://strm.yandex.ru/kal/arhyz24/arhyz240.m3u8
+#EXTINF:-1 tvg-id="Astrahan24.ru" tvg-name="Астрахань 24" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Астрахань 24 (720p)
+http://streaming.astrakhan.ru/astrakhan24/index.m3u8
+#EXTINF:-1 tvg-id="Astrahan24.ru" tvg-name="Астрахань 24" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Астрахань 24
+https://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-id="Astrahan24.ru" tvg-name="Астрахань 24" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Астрахань 24
+https://streaming.astrakhan.ru/astrakhan24/tracks-v3a1/index.m3u8
+#EXTINF:-1 tvg-id="Astrahan24.ru" tvg-name="Астрахань 24" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Астрахань 24 (720p)
+https://strm.yandex.ru/kal/astrahan24/astrahan240.m3u8
+#EXTINF:-1 tvg-id="AstrahanRuSport.ru" tvg-name="Астрахань.Ru Sport" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Астрахань.Ru Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="AstrahanRuSport.ru" tvg-name="Астрахань.Ru Sport" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Астрахань.Ru Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-id="AstrahanRuSport.ru" tvg-name="Астрахань.Ru Sport" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Астрахань.Ru Sport
+https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
+#EXTINF:-1 tvg-id="AstrahanRuTV.ru" tvg-name="Астрахань.Ru TV" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Астрахань.Ru TV
+https://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="AstrahanRuTV.ru" tvg-name="Астрахань.Ru TV" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Астрахань.Ru TV
+https://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-id="AstrahanRuTV.ru" tvg-name="Астрахань.Ru TV" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Астрахань.Ru TV
+https://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v3a1/index.m3u8
+#EXTINF:-1 tvg-id="Afontovo.ru" tvg-name="Афонтово" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Афонтово (Красноярск)
+http://xstream.afontovo.ru/afontovo_ya.m3u8
+#EXTINF:-1 tvg-id="Bashkortostan24.ru" tvg-name="Башкортостан 24" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Башкортостан 24 (1080p)
+https://strm.yandex.ru/kal/bashkortostan24/bashkortostan240.m3u8
+#EXTINF:-1 tvg-id="Belgorod24.ru" tvg-name="Белгород 24" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Белгород 24
+http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
+#EXTINF:-1 tvg-id="BelRos.ru" tvg-name="БелРос" tvg-country="BY;RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/Emss0Lk.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",БелРос (576p)
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1 tvg-id="BolshayaAziya.ru" tvg-name="Большая Азия" tvg-country="RU" tvg-language="Russian" tvg-logo="https://iptvx.one/icn/bolshaya-azia.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Большая Азия (1080p)
+https://strm.yandex.ru/kal/bigasia/bigasia0.m3u8
+#EXTINF:-1 tvg-id="Bolshoyefir.ru" tvg-name="Большой эфир" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Большой эфир
+https://stream-msk-05.ott.tricolor.tv/dtv/id621_MSKSG-PVR-1--ChannelLIVE/03/plst.m3u8
+#EXTINF:-1 tvg-id="BST.ru" tvg-name="БСТ" tvg-country="RU" tvg-language="Bashkir" tvg-logo="https://i.imgur.com/rxwTjuT.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",БСТ (Башкирское спутниковое телевидение) (576p)
+https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
+#EXTINF:-1 tvg-id="Vetta24.ru" tvg-name="Ветта 24" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Ветта 24 (Пермь) (576p)
+http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
+#EXTINF:-1 tvg-id="VechernyayaMoskva.ru" tvg-name="Вечерняя Москва" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/hLD874K.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Вечерняя Москва
+https://vmvideo.gcdn.co/streams/1503_161/1080n/index.m3u8
+#EXTINF:-1 tvg-id="VmesteRF.ru" tvg-name="Вместе-РФ" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Вместе-РФ
+http://vmesterf.bonus-tv.ru:80/cdn/vmesterf/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="Volgograd1.ru" tvg-name="Волгоград 1" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Волгоград 1 (1080p)
+https://strm.yandex.ru/kal/volgograd1/volgograd10.m3u8
+#EXTINF:-1 tvg-id="GalTV.ru" tvg-name="Гал ТВ" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Гал ТВ
+http://clients.apsny.camera/tv_gal_tv_hd_online/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="GuberniyaSamara.ru" tvg-name="Губерния (Самара)" tvg-country="RU" tvg-language="Russian" tvg-logo="https://www.guberniatv.ru/img/logo.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Губерния (Самара)
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-id="GuberniyaSamara.ru" tvg-name="Губерния (Самара)" tvg-country="RU" tvg-language="Russian" tvg-logo="https://www.guberniatv.ru/img/logo.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Губерния (Самара) (576p)
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Guberniya33.ru" tvg-name="Губерния 33" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Губерния 33 (Владимир) (360p)
+https://live-trc33.cdnvideo.ru/trc33/trc33.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Dagestan.ru" tvg-name="Дагестан" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Дагестан (1080p)
+https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
+#EXTINF:-1 tvg-id="DayvingTV.ru" tvg-name="Дайвинг.TV" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Дайвинг.TV (720p)
+https://strm.yandex.ru/kal/diving/diving0.m3u8
+#EXTINF:-1 tvg-id="Dozhd.ru" tvg-name="Дождь" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Дождь [No audio]
+https://a3569457435-s78511.cdn.ngenix.net/open/_definst_/TVRain_noaudio/chunklist_DVR.m3u8
+#EXTINF:-1 tvg-id="Domkino.ru" tvg-name="Дом кинo" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Дом кинo
+http://cdn.nexttvnet.ru/hlsl/10/Dom_kino/Dom_kino_3/index.m3u8
+#EXTINF:-1 tvg-id="Domkino.ru" tvg-name="Дом кино" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Дом кино
+http://51.195.44.53:8081/tv/dom-kino/chunks.m3u8
+#EXTINF:-1 tvg-id="DomKinoPremium.ru" tvg-name="Дом Кино Премиум HD" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Дом Кино Премиум HD
+https://sc.id-tv.kz/domkino_hd_38_39.m3u8
+#EXTINF:-1 tvg-id="Domashniy.ru" tvg-name="Домашний" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Домашний (576p)
+http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/dom/playlist.m3u8
+#EXTINF:-1 tvg-id="Domashniy.ru" tvg-name="Домашний" tvg-country="RU" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Domashniy_tv_logo.svg/2000px-Domashniy_tv_logo.svg.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Домашний (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s88/index.m3u8
+#EXTINF:-1 tvg-id="Dorama.ru" tvg-name="Дорама" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/lHn6OlM.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Дорама (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s95/index.m3u8
+#EXTINF:-1 tvg-id="Dorama.ru" tvg-name="Дорама" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/lHn6OlM.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Дорама
+http://sc.id-tv.kz:80/dorama_hd_34_35.m3u8
+#EXTINF:-1 tvg-id="Evraziya.ru" tvg-name="Евразия" tvg-country="RU" tvg-language="Russian" tvg-logo="http://eurasia.orsk.ru/images/bg.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Евразия (Орск) (720p)
+http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8
+#EXTINF:-1 tvg-id="Evraziya.ru" tvg-name="Евразия" tvg-country="RU" tvg-language="Russian" tvg-logo="http://eurasia.orsk.ru/images/bg.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Евразия (Орск)
+https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
+#EXTINF:-1 tvg-id="Evronovosti.ru" tvg-name="Евроновости" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Евроновости (540p)
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+#EXTINF:-1 tvg-id="Evronovosti.ru" tvg-name="Евроновости" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Евроновости (720p)
+https://strm.yandex.ru/kal/euronews_supres/euronews_supres0.m3u8
+#EXTINF:-1 tvg-id="ZharPtica.ru" tvg-name="Жар Птица" tvg-country="RU" tvg-language="Russian" tvg-logo="http://www.zhar-ptica.tv/sites/default/files/logo.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Жар Птица (1080p)
+http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
+#EXTINF:-1 tvg-id="ZharPtica.ru" tvg-name="Жар Птица" tvg-country="RU" tvg-language="Russian" tvg-logo="http://www.zhar-ptica.tv/sites/default/files/logo.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Жар Птица (1080p)
+https://strm.yandex.ru/kal/firebird/firebird0.m3u8
+#EXTINF:-1 tvg-id="Zagorodnyy.ru" tvg-name="Загородный" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/RAfV5p7.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Загородный (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s31/index.m3u8
+#EXTINF:-1 tvg-id="Zvezda.ru" tvg-name="Звезда" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/n9zLVyR.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Звезда (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s85/index.m3u8
+#EXTINF:-1 tvg-id="ZooTV.ru" tvg-name="Зоо ТВ" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/yy0YpWT.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Зоо ТВ (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s92/index.m3u8
+#EXTINF:-1 tvg-id="Izvestiya.ru" tvg-name="Известия" tvg-country="RU" tvg-language="Russian" tvg-logo="https://iptvx.one/icn/izvestia.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Известия (1080p)
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 tvg-id="Izvestiya.ru" tvg-name="Известия" tvg-country="RU" tvg-language="Russian" tvg-logo="https://iptvx.one/icn/izvestia.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Известия (720p)
+https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1 tvg-id="Indiyskoekino.ru" tvg-name="Индийское кино" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Индийское кино
+http://89.106.234.3:80/Indiiskoe_kino_34_35.m3u8
+#EXTINF:-1 tvg-id="Istoriya.ru" tvg-name="История" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/7fZXK7y.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",История (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s40/index.m3u8
+#EXTINF:-1 tvg-id="KabbalaTV.ru" tvg-name="Каббала ТВ" tvg-country="RU" tvg-language="Russian" tvg-logo="http://kab.tv/static/images/kab_tv_eng.gif" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Каббала ТВ (360p)
+https://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Kavkaz24.ru" tvg-name="Кавказ 24" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Кавказ 24 (720p)
+http://serv30.vintera.tv:8081/kavkaz24/kavkaz24_stream/playlist.m3u8
+#EXTINF:-1 tvg-id="KarapuzTV.ru" tvg-name="Карапуз ТВ" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Карапуз ТВ
+https://karapuztv.fenixplustv.xyz/content/33418/index.m3u8
+#EXTINF:-1 tvg-id="Kinokomediya.ru" tvg-name="Кинокомедия" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Кинокомедия
+http://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
+#EXTINF:-1 tvg-id="Kinomiks.ru" tvg-name="Киномикс" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Киномикс
+http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
+#EXTINF:-1 tvg-id="Kinopremera.ru" tvg-name="Кинопремьера" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Кинопремьера
+https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
+#EXTINF:-1 tvg-id="Kinosvidanie.ru" tvg-name="Киносвидание" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Киносвидание
+http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/728/index.m3u8
+#EXTINF:-1 tvg-id="Kinosvidanie.ru" tvg-name="Киносвидание" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Киносвидание
+http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
+#EXTINF:-1 tvg-id="Kinosvidanie.ru" tvg-name="Киносвидание" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Киносвидание
+https://s3.idata.uz/dars6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Kinosemya.ru" tvg-name="Киносемья" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Киносемья
+http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
+#EXTINF:-1 tvg-id="Kinohit.ru" tvg-name="Кинохит" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Кинохит
+http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
+#EXTINF:-1 tvg-id="Kinohit.ru" tvg-name="Кинохит" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Кинохит
+https://s1.idata.uz/stch_temp3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="KlassikaKino.ru" tvg-name="Классика Кино" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Классика Кино (720p)
+https://strm.yandex.ru/kal/kinoclassic/kinoclassic0.m3u8
+#EXTINF:-1 tvg-id="Komediya.ru" tvg-name="Комедия" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Комедия
+http://51.195.44.53:8081/tv/rus-comedy/chunks.m3u8
+#EXTINF:-1 tvg-id="Krasnayaliniya.ru" tvg-name="Красная линия" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Красная линия
+https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
+#EXTINF:-1 tvg-id="Krasnayaliniya.ru" tvg-name="Красная линия" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Красная линия (480p)
+https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
+#EXTINF:-1 tvg-id="KrikTV.ru" tvg-name="Крик-ТВ" tvg-country="RU" tvg-language="Russian" tvg-logo="http://ricekb.ru/img/logo.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Крик-ТВ (720p)
+https://hls-rictv.cdnvideo.ru/rictv/rictv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Krym24.ru" tvg-name="Крым 24" tvg-country="RU" tvg-language="Russian" tvg-logo="http://1tvcrimea.ru/assets/images/live_crimea24.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Крым 24
+http://mr2live.1tvcrimea.ru:8080/24tvcrimea.m3u8
+#EXTINF:-1 tvg-id="Kuban24Orbita.ru" tvg-name="Кубань 24 Орбита" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Кубань 24 Орбита
+https://stream.kuban24.tv:1500/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Kultura.ru" tvg-name="Культура" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/dlGv71S.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Культура
+http://185.74.7.220:8080/kultura/mpegts
+#EXTINF:-1 tvg-id="Kultura.ru" tvg-name="Культура" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/dlGv71S.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Культура (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s16/index.m3u8
+#EXTINF:-1 tvg-id="Kultura.ru" tvg-name="Культура" tvg-country="RU" tvg-language="Russian" tvg-logo="http://fanat.tv/images/tv/rossiya-k.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Культура
+https://a3569458063-s26881.cdn.ngenix.net/live/smil:russiak.smil/index.m3u8
+#EXTINF:-1 tvg-id="Kultura.ru" tvg-name="Культура" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Культура
+https://uiptv.do.am/1ufc/000000005/playlist.m3u8
+#EXTINF:-1 tvg-id="Kuray.ru" tvg-name="Курай" tvg-country="RU" tvg-language="Bashkir" tvg-logo="https://i.imgur.com/AxgNvdp.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Курай (576p)
+https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
+#EXTINF:-1 tvg-id="LDPRTV.ru" tvg-name="ЛДПР ТВ" tvg-country="RU" tvg-language="Russian" tvg-logo="https://iptvx.one/icn/ldpr-tv.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",ЛДПР ТВ (480p)
+http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8
+#EXTINF:-1 tvg-id="LDPRTV.ru" tvg-name="ЛДПР ТВ" tvg-country="RU" tvg-language="Russian" tvg-logo="https://iptvx.one/icn/ldpr-tv.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",ЛДПР ТВ (720p)
+http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="Lipeckoevremya.ru" tvg-name="Липецкое время" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Липецкое время (576p)
+http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
+#EXTINF:-1 tvg-id="LuchPurovsk.ru" tvg-name="Луч (Пуровск)" tvg-country="RU" tvg-language="Russian" tvg-logo="http://trk-luch.ru.opt-images.1c-bitrix-cdn.ru/bitrix/templates/.default/static/images/logo.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Луч (Пуровск)
+https://live.trk-luch.ru/hls/live.m3u8
+#EXTINF:-1 tvg-id="LyubimoeTV.ru" tvg-name="Любимое.ТВ" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Любимое.ТВ (720p)
+https://strm.yandex.ru/kal/lovedtv/lovedtv0.m3u8
+#EXTINF:-1 tvg-id="MaturTV.ru" tvg-name="Матур ТВ" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Матур ТВ
+https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+#EXTINF:-1 tvg-id="MatchTV.ru" tvg-name="Матч ТВ" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/ud7AVaF.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Матч ТВ (576p)
+http://176.114.16.54:80/match/index.m3u8
+#EXTINF:-1 tvg-id="MatchTV.ru" tvg-name="Матч ТВ" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/ud7AVaF.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Матч ТВ (576p)
+https://95-213-224-188.livesports24.online/ooomatch.m3u8
+#EXTINF:-1 tvg-id="MatchTV.ru" tvg-name="Матч ТВ" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/ud7AVaF.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Матч ТВ
+https://uiptv.do.am/1ufc/000000003/playlist.m3u8
+#EXTINF:-1 tvg-id="MatchIgra.ru" tvg-name="Матч! Игра" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Матч! Игра
+https://s1.idata.uz/stch_temp19/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MezhduNetMezhdurechensk.ru" tvg-name="Между.Net (Междуреченск)" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Между.Net (Междуреченск) (720p)
+http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8
+#EXTINF:-1 tvg-id="Millet.ru" tvg-name="Миллет" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Миллет
+http://live.trkmillet.ru/millet/index.m3u8
+#EXTINF:-1 tvg-id="Ministerstvoidey.ru" tvg-name="Министерство идей" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Министерство идей (720p)
+http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="MIR.ru" tvg-name="МИР" tvg-country="RU" tvg-language="Russian" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mir_ru.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",МИР (1080p)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="MIRPlus4.ru" tvg-name="МИР +4" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/CrFWXTD.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",МИР +4 (540p)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="MIR24.ru" tvg-name="МИР 24" tvg-country="RU" tvg-language="Russian" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mir_24_ru.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",МИР 24 (1080p)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="MIR24.ru" tvg-name="МИР 24" tvg-country="RU" tvg-language="Russian" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mir_24_ru.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",МИР 24
+https://sc.id-tv.kz/Mir24.m3u8
+#EXTINF:-1 tvg-id="MIR24.ru" tvg-name="МИР 24" tvg-country="RU" tvg-language="Russian" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mir_24_ru.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",МИР 24
+https://sc.id-tv.kz/Mir24_38_39.m3u8
+#EXTINF:-1 tvg-id="MIRPremium.ru" tvg-name="МИР Premium" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",МИР Premium (1080p)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="MirBelogorya.ru" tvg-name="Мир Белогорья" tvg-country="RU" tvg-language="Russian" tvg-logo="http://mirbelogorya.ru/images/stories/news/2014/08/мир/0белогорья_логотип.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Мир Белагорья (720p)
+http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
+#EXTINF:-1 tvg-id="MirBelogorya.ru" tvg-name="Мир Белогорья" tvg-country="RU" tvg-language="Russian" tvg-logo="http://mirbelogorya.ru/images/stories/news/2014/08/мир%20белогорья_логотип.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Мир Белогорья (720p)
+http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
+#EXTINF:-1 tvg-id="Mordoviya24.ru" tvg-name="Мордовия 24" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Мордовия 24 (720p)
+https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
+#EXTINF:-1 tvg-id="Moskva24.ru" tvg-name="Москва 24" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Москва 24
+https://a3569458063-s26881.cdn.ngenix.net/live/smil:m24.smil/index.m3u8
+#EXTINF:-1 tvg-id="Moskva24.ru" tvg-name="Москва 24" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/BOry400.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Москва 24
+https://radio-live-mg.rtr-vesti.ru/live/smil:m24.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Moskva24.ru" tvg-name="Москва 24" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Москва 24 (720p)
+https://strm.yandex.ru/kal/msk24_supres/msk24_supres0.m3u8
+#EXTINF:-1 tvg-id="MoyaPlaneta.ru" tvg-name="Моя Планета" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Моя Планета
+https://a3569456481-s26881.cdn.ngenix.net/live/smil:mplan.smil/index.m3u8
+#EXTINF:-1 tvg-id="MTV.ru" tvg-name="МТВ" tvg-country="RU" tvg-language="Russian" tvg-logo="http://xn--b1ats.xn--80asehdb/img/logo.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",МТВ (Волгоград) (720p)
+http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Muzhskoekino.ru" tvg-name="Мужское кино" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Мужское кино
+https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
+#EXTINF:-1 tvg-id="MUZTV.ru" tvg-name="МУЗ-ТВ" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/n7bGFXj.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",МУЗ-ТВ (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s28/index.m3u8
+#EXTINF:-1 tvg-id="MUZTV.ru" tvg-name="МУЗ-ТВ" tvg-country="RU" tvg-language="Russian" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/muz_tv.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",МУЗ-ТВ (720p)
+https://strm.yandex.ru/kal/muztv_supres/muztv_supres0.m3u8
+#EXTINF:-1 tvg-id="MuzSoyuz.ru" tvg-name="МузСоюз" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",МузСоюз
+http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
+#EXTINF:-1 tvg-id="Mult.ru" tvg-name="Мульт" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Мульт
+https://autopilot.catcast.tv/content/38850/index.m3u8
+#EXTINF:-1 tvg-id="Multilandiya.ru" tvg-name="Мультиландия" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Мультиландия (576p)
+http://serv30.vintera.tv:8081/detskiy/multimania20/playlist.m3u8
+#EXTINF:-1 tvg-id="Nadezhda.ru" tvg-name="Надежда" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Надежда (720p)
+https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:-1 tvg-id="Nadezhda.ru" tvg-name="Надежда" tvg-country="RU" tvg-language="Russian" tvg-logo="https://hopetv.ru/wp-content/themes/hope.ua/public/img/header-hopeLogo.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Надежда (720p)
+https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:-1 tvg-id="Nano.ru" tvg-name="Нано" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Нано
+http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:-1 tvg-id="NastoyashcheeVremya.ru" tvg-name="Настоящее Время" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Настоящее Время (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s61/index.m3u8
+#EXTINF:-1 tvg-id="NastoyashcheeVremya.ru" tvg-name="Настоящее Время" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Настоящее Время (1080p)
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
+#EXTINF:-1 tvg-id="Nauka.ru" tvg-name="Наука" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Наука (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s98/index.m3u8
+#EXTINF:-1 tvg-id="Nashdom.ru" tvg-name="Наш дом" tvg-country="RU" tvg-language="Russian" tvg-logo="https://pp.userapi.com/c5200/g33405934/a_1fa4a8a6.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Наш дом
+http://85.234.33.60/stream/c11.m3u8
+#EXTINF:-1 tvg-id="NashaSibir.ru" tvg-name="Наша Сибирь" tvg-country="RU" tvg-language="Russian" tvg-logo="https://iptvx.one/icn/nasha-sibir.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Наша Сибирь (1080p)
+https://strm.yandex.ru/kal/sibir/sibir0.m3u8
+#EXTINF:-1 tvg-id="NasheNovoeKino.ru" tvg-name="Наше Новое Кино" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Наше Новое Кино
+https://s1.idata.uz/stch_temp6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NebesaTV7.ru" tvg-name="Небеса ТВ7" tvg-country="RU" tvg-language="Russian" tvg-logo="https://www.nebesatv7.com/wp-content/themes/tv7-theme/assets/img/logo_nebesa_short.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Небеса ТВ7 (720p)
+http://vod.tv7.fi:1935/tv7-ru/_definst_/smil:tv7-ru.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NikaTV.ru" tvg-name="Ника ТВ" tvg-country="RU" tvg-language="Russian" tvg-logo="https://nikatv.ru/public/img/logo2.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Ника ТВ (576p)
+https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Novoeradio.ru" tvg-name="Новое радио" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Новое радио (1080p)
+https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NovorossiyaTV.ru" tvg-name="Новороссия ТВ" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Новороссия ТВ
+http://185.114.136.25:80/novorossia-tv
+#EXTINF:-1 tvg-id="Novyymir.ru" tvg-name="Новый мир" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Новый мир (406p)
+http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
+#EXTINF:-1 tvg-id="Novyymir.ru" tvg-name="Новый мир" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Новый мир (406p)
+https://persik.by/stream/8682/252987/10231.m3u8
+#EXTINF:-1 tvg-id="Noyabrsk24.ru" tvg-name="Ноябрьск 24" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Ноябрьск 24 (1080p)
+https://strm.yandex.ru/kal/noyabrsk24/noyabrsk240.m3u8
+#EXTINF:-1 tvg-id="NTV.ru" tvg-name="НТВ" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",НТВ
+http://51.195.44.53:8081/tv/ntv/chunks.m3u8
+#EXTINF:-1 tvg-id="NTV.ru" tvg-name="НТВ" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",НТВ (576p)
+http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/ntv/playlist.m3u8
+#EXTINF:-1 tvg-id="NTV.ru" tvg-name="НТВ" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/i6wrwKy.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",НТВ (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s17/index.m3u8
+#EXTINF:-1 tvg-id="NTVStil.ru" tvg-name="НТВ Стиль" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",НТВ Стиль (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s77/index.m3u8
+#EXTINF:-1 tvg-id="NTVPlusSport.ru" tvg-name="НТВ+ Спорт" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",НТВ+ Спорт (720p)
+https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NTM.ru" tvg-name="НТМ" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",НТМ (Народное телевидение Мордовии) (720p)
+https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="O.ru" tvg-name="О!" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",О!
+https://sc.id-tv.kz/o_34_35.m3u8
+#EXTINF:-1 tvg-id="O2TV.ru" tvg-name="О2ТВ" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",О2ТВ (1080p)
+https://strm.yandex.ru/kal/o2/o20.m3u8
+#EXTINF:-1 tvg-id="O2TV.ru" tvg-name="О2ТВ" tvg-country="RU" tvg-language="Russian" tvg-logo="https://ustanovca-tricorol-tv.ru/wp-content/uploads/2017/12/o-tv.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",О2ТВ
+https://strm.yandex.ru/kal/o2/o20_169_480p.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="ObshchestvennoeNezavisimoeTelevidenie.ru" tvg-name="Общественное Независимое Телевидение" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Общественное Независимое Телевидение
+http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
+#EXTINF:-1 tvg-id="ObshchestvennoeNezavisimoeTelevidenie.ru" tvg-name="Общественное Независимое Телевидение" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Общественное Независимое Телевидение
+https://ch.iptvmate.net/a46f7aba4c40d62799b6ca0296fb7f6c.m3u8
+#EXTINF:-1 tvg-id="OdincovoTV.ru" tvg-name="Одинцово ТВ" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Одинцово ТВ
+http://185.18.4.16/live/3m/playlist.m3u8
+#EXTINF:-1 tvg-id="OplotTV.ru" tvg-name="Оплот ТВ" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Оплот ТВ
+http://185.114.136.25/oplot-tv
+#EXTINF:-1 tvg-id="OplotTV.ru" tvg-name="Оплот ТВ" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Оплот ТВ
+http://185.114.136.25/oplot-tv?streamType=live
+#EXTINF:-1 tvg-id="OstrosyuzhetnoeHD.ru" tvg-name="Остросюжетное HD" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Остросюжетное HD (720p)
+http://51.195.44.53:8081/tv/ostros/playlist.m3u8
+#EXTINF:-1 tvg-id="OTV24.ru" tvg-name="ОТВ 24" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",ОТВ 24 (1080p)
+https://strm.yandex.ru/kal/otv24/otv240.m3u8
+#EXTINF:-1 tvg-id="OTR.ru" tvg-name="ОТР" tvg-country="RU" tvg-language="Russian" tvg-logo="https://iptvx.one/icn/otr_ru.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",ОТР
+https://uiptv.do.am/1ufc/000000008/playlist.m3u8
+#EXTINF:-1 tvg-id="OTS.ru" tvg-name="ОТС" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",ОТС (1080p)
+https://strm.yandex.ru/kal/otstv/otstv0.m3u8
+#EXTINF:-1 tvg-id="Ohotairybalka.ru" tvg-name="Охота и рыбалка" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Охота и рыбалка (576p)
+http://51.68.141.106:8081/tv/ohota-i-ryibalka/playlist.m3u8
+#EXTINF:-1 tvg-id="Ohotairybalka.ru" tvg-name="Охота и рыбалка" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Охота и рыбалка
+https://s3.idata.uz/dars5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="OhotnikiRybolov.ru" tvg-name="Охотник и Рыболов" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/k1Gt1Rc.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Охотник и Рыболов (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s62/index.m3u8
+#EXTINF:-1 tvg-id="OhotnikiRybolovInternational.ru" tvg-name="Охотник и Рыболов International" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Охотник и Рыболов International (1080p)
+https://strm.yandex.ru/kal/ohotnik/ohotnik0.m3u8
+#EXTINF:-1 tvg-id="Pervyykanal.ru" tvg-name="Первый канал" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/iW5vhkb.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Первый канал (576p)
+http://51.68.141.106:8081/tv/pervyiy-kanal/playlist.m3u8
+#EXTINF:-1 tvg-id="Pervyykanal.ru" tvg-name="Первый канал" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/iW5vhkb.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Первый канал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s14/04.m3u8
+#EXTINF:-1 tvg-id="PervyykanalEvraziya.ru" tvg-name="Первый канал Евразия" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Первый канал Евразия
+http://sc.id-tv.kz/1KanalEvraziya_38_39.m3u8
+#EXTINF:-1 tvg-id="PervyykanalEvraziya.ru" tvg-name="Первый канал Евразия" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Первый канал Евразия
+http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
+#EXTINF:-1 tvg-id="PervyykanalEvraziya.ru" tvg-name="Первый канал Евразия" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Первый канал Евразия
+https://sc.id-tv.kz/1KanalEvraziya_34_35.m3u8
+#EXTINF:-1 tvg-id="Pervyykrymskiy.ru" tvg-name="Первый крымский" tvg-country="RU" tvg-language="Russian" tvg-logo="http://1tvcrimea.ru/assets/images/live_1tvcrimea.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Первый крымский
+http://mrlive.1tvcrimea.ru:8080/1tvcrimea.m3u8
+#EXTINF:-1 tvg-id="Pobeda.ru" tvg-name="Победа" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/DOtCK9V.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Победа (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s47/index.m3u8
+#EXTINF:-1 tvg-id="Pobeda.ru" tvg-name="Победа" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/DOtCK9V.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Победа
+https://sc.id-tv.kz/Pobeda_34_35.m3u8
+#EXTINF:-1 tvg-id="Pobeda.ru" tvg-name="Победа" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/DOtCK9V.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Победа
+https://sc.id-tv.kz/Pobeda_36_37.m3u8
+#EXTINF:-1 tvg-id="Podvodoy.ru" tvg-name="Под водой" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Под водой (1080p)
+http://live-1.otcnet.ru/podvodoi/index.m3u8
+#EXTINF:-1 tvg-id="Poedinok.ru" tvg-name="Поединок" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Поединок
+https://stream-msk-06.ott.tricolor.tv/dtv/id629_MSKSG-PVR-1--Channel_LIVE2/03/plst.m3u8
+#EXTINF:-1 tvg-id="Poehali.ru" tvg-name="Поехали!" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Поехали!
+http://89.106.234.3:80/poehali_34_35.m3u8
+#EXTINF:-1 tvg-id="Poehali.ru" tvg-name="Поехали!" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Поехали!
+http://sc.id-tv.kz:80/poehali_38_39.m3u8
+#EXTINF:-1 tvg-id="PREMERA.ru" tvg-name="ПРЕМЬЕРА" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",ПРЕМЬЕРА
+https://autopilot.catcast.tv/content/39161/index.m3u8
+#EXTINF:-1 tvg-id="Prima.ru" tvg-name="Прима" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Прима
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
+#EXTINF:-1 tvg-id="Prodvizhenie.ru" tvg-name="Продвижение" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Продвижение (1080p)
+https://strm.yandex.ru/kal/prodvizheniye/prodvizheniye0.m3u8
+#EXTINF:-1 tvg-id="PyatnicaInternational.ru" tvg-name="Пятница! International" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/CNOYAUN.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Пятница! International (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s50/index.m3u8
+#EXTINF:-1 tvg-id="RORTALFOXMIXTV.ru" tvg-name="РORTAL FOXMIX TV" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",РORTAL FOXMIX TV
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
+#EXTINF:-1 tvg-id="RadioShanson.ru" tvg-name="Радио Шансон" tvg-country="RU" tvg-language="Russian" tvg-logo="http://lion-tv.com/uploads/posts/2016-09/1472964269_178.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Радио Шансон (720p)
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+#EXTINF:-1 tvg-id="RadioShanson.ru" tvg-name="Радио Шансон" tvg-country="RU" tvg-language="Russian" tvg-logo="http://lion-tv.com/uploads/posts/2016-09/1472964269_178.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Радио Шансон
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
+#EXTINF:-1 tvg-id="Ratnik.ru" tvg-name="Ратник" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Ратник (1080p)
+http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Ratnik.ru" tvg-name="Ратник" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Ратник (576p)
+https://online-video.rbc.ru/online/rbctv.m3u8
+#EXTINF:-1 tvg-id="RBK.ru" tvg-name="РБК" tvg-country="RU" tvg-language="Russian" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rbk_tv_ru.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",РБК
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1 tvg-id="RBK.ru" tvg-name="РБК" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/D5M4Gjr.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",РБК
+http://e3.online.video.rbc.ru/online2/rbctv_576p/index.m3u8
+#EXTINF:-1 tvg-id="RBK.ru" tvg-name="РБК" tvg-country="RU" tvg-language="Russian" tvg-logo="http://145.239.78.42/logos/rbk.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",РБК
+http://e6.online.video.rbc.ru/online2/rbctv_480p/index.m3u8
+#EXTINF:-1 tvg-id="RBK.ru" tvg-name="РБК" tvg-country="RU" tvg-language="Russian" tvg-logo="http://www.livenewsbox.com/wp-content/uploads/2015/05/RBC-TV1.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",РБК
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+#EXTINF:-1 tvg-id="RBK.ru" tvg-name="РБК" tvg-country="RU" tvg-language="Russian" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rbk_tv_ru.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",РБК
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:-1 tvg-id="RBK.ru" tvg-name="РБК" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/AGj8EJF.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",РБК (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s36/index.m3u8
+#EXTINF:-1 tvg-id="RBK.ru" tvg-name="РБК" tvg-country="RU" tvg-language="Russian" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rbk_tv_ru.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",РБК (720p)
+https://strm.yandex.ru/kal/rbc_supres/rbc_supres0.m3u8
+#EXTINF:-1 tvg-id="Region29.ru" tvg-name="Регион 29" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Регион 29 (Архангельск) (720p)
+http://live-atkmedia.cdnvideo.ru/atkmedia/atkmedia/playlist.m3u8
+#EXTINF:-1 tvg-id="RENTV.ru" tvg-name="РЕН ТВ" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",РЕН ТВ
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+#EXTINF:-1 tvg-id="RENTV.ru" tvg-name="РЕН ТВ" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",РЕН ТВ (576p)
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RENTVInternational.ru" tvg-name="РЕН ТВ International" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",РЕН ТВ International
+http://sc.id-tv.kz/RenTV_36_37.m3u8
+#EXTINF:-1 tvg-id="RENTVInternational.ru" tvg-name="РЕН ТВ International" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",РЕН ТВ International
+https://sc.id-tv.kz/RenTV.m3u8
+#EXTINF:-1 tvg-id="RENTVInternational.ru" tvg-name="РЕН ТВ International" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",РЕН ТВ International
+https://sc.id-tv.kz/RenTV_38_39.m3u8
+#EXTINF:-1 tvg-id="RZhDTV.ru" tvg-name="РЖД ТВ" tvg-country="RU" tvg-language="Russian" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rzd_russian_railways.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",РЖД ТВ (360p)
+http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="RZhDTV.ru" tvg-name="РЖД ТВ" tvg-country="RU" tvg-language="Russian" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rzd_russian_railways.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",РЖД ТВ
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-id="Rodnoekino.ru" tvg-name="Родное кино" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Родное кино
+http://89.106.234.3:80/Rodnoe_kino_34_35.m3u8
+#EXTINF:-1 tvg-id="Rodnoekino.ru" tvg-name="Родное кино" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Родное кино
+https://s3.idata.uz/dars10/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Rodnoykanal.ru" tvg-name="Родной канал" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Родной канал (720p)
+https://n1.slavmir.tv/live/slavmir/playlist.m3u8
+#EXTINF:-1 tvg-id="Rossiya1Kaluga.ru" tvg-name="Россия 1 (Калуга)" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Россия 1 (Калуга)
+http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/smil:kaluga_r1.smil/chunklist_b400000.m3u8
+#EXTINF:-1 tvg-id="Rossiya1Plus6.ru" tvg-name="Россия 1 +6" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Россия 1 +6
+http://tv-online.gtrkchita.ru:8080/hls/r1-chita_180p.m3u8
+#EXTINF:-1 tvg-id="Rossiya1Plus6.ru" tvg-name="Россия 1 +6" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Россия 1 +6
+http://tv-online.gtrkchita.ru:8080/hls/r1-chita_360p.m3u8
+#EXTINF:-1 tvg-id="Rossiya1HD.ru" tvg-name="Россия 1 HD" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Россия 1 HD (720p)
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="Rossiya1HD.ru" tvg-name="Россия 1 HD" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Россия 1 HD
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1 tvg-id="Rossiya1HD.ru" tvg-name="Россия 1 HD" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Россия 1 HD
+https://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1 tvg-id="Rossiya24.ru" tvg-name="Россия 24" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/wu7O85f.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Россия 24
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1 tvg-id="Rossiya24.ru" tvg-name="Россия 24" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/wu7O85f.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Россия 24 (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s21/index.m3u8
+#EXTINF:-1 tvg-id="Rossiya24.ru" tvg-name="Россия 24" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/wu7O85f.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Россия 24
+http://tv-online.gtrkchita.ru:8080/hls/r24-chita_360p.m3u8
+#EXTINF:-1 tvg-id="Rossiya24.ru" tvg-name="Россия 24" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/wu7O85f.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Россия 24
+https://uiptv.do.am/1ufc/000000006/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVLyubimoekino.ru" tvg-name="РТВ - Любимое кино" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",РТВ - Любимое кино (576p)
+http://51.195.44.53:8081/tv/lubimoe-kino/playlist.m3u8
+#EXTINF:-1 tvg-id="RTRPlaneta.ru" tvg-name="РТР-Планета" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/5D1gwiv.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",РТР-Планета
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-id="RTRPlaneta.ru" tvg-name="РТР-Планета" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/5D1gwiv.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",РТР-Планета
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
+#EXTINF:-1 tvg-id="RTRPlaneta.ru" tvg-name="РТР-Планета" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/5D1gwiv.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",РТР-Планета
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/playlist_3.m3u8
+#EXTINF:-1 tvg-id="RTRPlaneta.ru" tvg-name="РТР-Планета" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/5D1gwiv.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",РТР-Планета (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s15/index.m3u8
+#EXTINF:-1 tvg-id="Russkiybestseller.ru" tvg-name="Русский бестселлер" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Русский бестселлер
+http://51.68.141.106:8081/tv/rus-bestceller/chunks.m3u8
+#EXTINF:-1 tvg-id="RusskiyDetektiv.ru" tvg-name="Русский Детектив" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Русский Детектив (576p)
+http://51.195.44.53:8081/tv/rus-detektiv/playlist.m3u8
+#EXTINF:-1 tvg-id="RusskiyIllyuzion.ru" tvg-name="Русский Иллюзион" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Русский Иллюзион (576p)
+http://51.68.141.106:8081/tv/rus-illus/playlist.m3u8
+#EXTINF:-1 tvg-id="Russkiyroman.ru" tvg-name="Русский роман" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Русский роман (576p)
+http://147.135.210.90:8081/tv/rus-roman-6r/playlist.m3u8
+#EXTINF:-1 tvg-id="RusskiySever.ru" tvg-name="Русский Север" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Русский Север (Вологда) (1080p)
+http://rusevertv.ru/576/rs_crf28_.m3u8
+#EXTINF:-1 tvg-id="RusskiyEkstrim.ru" tvg-name="Русский Экстрим" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Русский Экстрим
+http://vid.extremtv.ru/hls_get/cameraFeed.m3u8
+#EXTINF:-1 tvg-id="Rybolov.ru" tvg-name="Рыболов" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Рыболов (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s55/index.m3u8
+#EXTINF:-1 tvg-id="Ryzhiy.ru" tvg-name="Рыжий" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/QlncxbD.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Рыжий (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s57/index.m3u8
+#EXTINF:-1 tvg-id="Ryzhiy.ru" tvg-name="Рыжий" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Рыжий (576p)
+http://serv30.vintera.tv:8081/detskiy/ryzhiy_08/playlist.m3u8
+#EXTINF:-1 tvg-id="S1.ru" tvg-name="С1" tvg-country="RU" tvg-language="Russian" tvg-logo="https://sitv.ru/img/stv-news/111111/S1_logo.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",С1 (Сургут)
+https://sitv.ru/hls/stv1024.m3u8
+#EXTINF:-1 tvg-id="Salyam.ru" tvg-name="Салям" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/thfF7IJ.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Салям (576p)
+https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
+#EXTINF:-1 tvg-id="Samotlor.ru" tvg-name="Самотлор" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Самотлор (720p)
+http://base.samotlor.tv:2936/live/SamotlorWeb2/playlist.m3u8
+#EXTINF:-1 tvg-id="Sarafan.ru" tvg-name="Сарафан" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/AgX6qoz.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Сарафан (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s38/index.m3u8
+#EXTINF:-1 tvg-id="Sever.ru" tvg-name="Север" tvg-country="RU" tvg-language="Russian" tvg-logo="http://www.visitnao.ru/upload/iblock/1c0/1c0bd0c468ce71c2c0deab8ee728440a.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Север (Нарьян-Мар) (1080p)
+https://live.mediacdn.ru/sr1/sever/playlist.m3u8
+#EXTINF:-1 tvg-id="Sever.ru" tvg-name="Север" tvg-country="RU" tvg-language="Russian" tvg-logo="http://www.visitnao.ru/upload/iblock/1c0/1c0bd0c468ce71c2c0deab8ee728440a.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Север (Нарьян-Мар) (1080p)
+https://live2.mediacdn.ru/sr1/sever-mobile/playlist.m3u8
+#EXTINF:-1 tvg-id="Sever.ru" tvg-name="Север" tvg-country="RU" tvg-language="Russian" tvg-logo="http://www.visitnao.ru/upload/iblock/1c0/1c0bd0c468ce71c2c0deab8ee728440a.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Север (Нарьян-Мар) (1080p)
+https://live2.mediacdn.ru/sr1/sever/playlist.m3u8
+#EXTINF:-1 tvg-id="Siesta.ru" tvg-name="Сиеста" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Сиеста
+http://1hdru-hls-otcnet.cdnvideo.ru/siesta/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="SmaylikTV.ru" tvg-name="Смайлик ТВ" tvg-country="RU" tvg-language="Russian" tvg-logo="http://smilik.tv/wp-content/uploads/2016/02/Desktop_-1.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Смайлик ТВ (720p)
+http://62.32.67.187:1935/WEB_Smilik/ngrp:Smilik.stream-adaptive/chunklist.m3u8
+#EXTINF:-1 tvg-id="SmaylikTV.ru" tvg-name="Смайлик ТВ" tvg-country="RU" tvg-language="Russian" tvg-logo="http://smilik.tv/wp-content/uploads/2016/02/Desktop_-1.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Смайлик ТВ (720p)
+http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SolnechnogorskoeTV.ru" tvg-name="Солнечногорское ТВ" tvg-country="RU" tvg-language="Russian" tvg-logo="https://solntv.ru/images/stv-logo-hq.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Солнечногорское ТВ (360p)
+http://hls.solntv.cdnvideo.ru/solntv/solntv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Sochi24HD.ru" tvg-name="Сочи 24 HD" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Сочи 24 HD (720p)
+http://serv30.vintera.tv:8081/sochi/maks24hd/playlist.m3u8
+#EXTINF:-1 tvg-id="Soyuz.ru" tvg-name="Союз" tvg-country="RU" tvg-language="Russian" tvg-logo="https://tv-soyuz.ru/static/img/logo.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Союз (576p)
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 tvg-id="Soyuz.ru" tvg-name="Союз" tvg-country="RU" tvg-language="Russian" tvg-logo="https://tv-soyuz.ru/static/img/logo.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Союз (576p)
+http://tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 tvg-id="Soyuz.ru" tvg-name="Союз" tvg-country="RU" tvg-language="Russian" tvg-logo="https://tv-soyuz.ru/static/img/logo.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Союз (720p)
+https://strm.yandex.ru/kal/soyuz_supres/soyuz_supres0.m3u8
+#EXTINF:-1 tvg-id="SSSRTV.ru" tvg-name="СССР ТВ" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",СССР ТВ
+https://autopilot.catcast.tv/content/38821/index.m3u8
+#EXTINF:-1 tvg-id="Start.ru" tvg-name="Старт" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Старт (1080p)
+https://strm.yandex.ru/kal/start/start0.m3u8
+#EXTINF:-1 tvg-id="Start.ru" tvg-name="Старт" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Старт
+https://strm.yandex.ru/kal/start/start0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="Start.ru" tvg-name="Старт" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Старт
+https://strm.yandex.ru/kal/start/start0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="Start.ru" tvg-name="Старт" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Старт
+https://strm.yandex.ru/kal/start/start0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 tvg-id="StranaFM.ru" tvg-name="Страна FM" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Страна FM (720p)
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="STRKHD.ru" tvg-name="СТРК HD" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",СТРК HD
+http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="STS.ru" tvg-name="СТС" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/pJNWVAz.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",СТС
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s52/04.m3u8
+#EXTINF:-1 tvg-id="STS.ru" tvg-name="СТС" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/pJNWVAz.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",СТС
+https://sc.id-tv.kz/STS_34_35.m3u8
+#EXTINF:-1 tvg-id="STSInternational.ru" tvg-name="СТС International" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",СТС International
+https://sc.id-tv.kz/STS.m3u8
+#EXTINF:-1 tvg-id="STSInternational.ru" tvg-name="СТС International" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",СТС International
+https://sc.id-tv.kz/STS_38_39.m3u8
+#EXTINF:-1 tvg-id="STSLove.ru" tvg-name="СТС Love" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",СТС Love (576p)
+http://51.68.141.106:8081/tv/sts-love/playlist.m3u8
+#EXTINF:-1 tvg-id="Surgut24.ru" tvg-name="Сургут 24" tvg-country="RU" tvg-language="Russian" tvg-logo="http://online-red.com/images/tv/surgut-24.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Сургут 24 (720p)
+https://video1.in-news.ru/c24/index.m3u8
+#EXTINF:-1 tvg-id="Tamyr.ru" tvg-name="Тамыр" tvg-country="RU" tvg-language="Bashkir" tvg-logo="https://i.imgur.com/ySedtZl.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Тамыр (576p)
+https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
+#EXTINF:-1 tvg-id="Tatarstan24.ru" tvg-name="Татарстан24" tvg-country="RU" tvg-language="Russian" tvg-logo="http://www.zelenodolsk.ru/share/images/base/7/170_157352.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Татарстан24 (720p)
+http://stream.efir24.tv:1935/live/efir24tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCentr.ru" tvg-name="ТВ Центр" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/fIkd01t.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",ТВ Центр (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s54/index.m3u8
+#EXTINF:-1 tvg-id="TVEkstra.ru" tvg-name="ТВ Экстра" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",ТВ Экстра (720p)
+http://live-1.otcnet.ru:80/tvextra720b/index.m3u8
+#EXTINF:-1 tvg-id="TV3.ru" tvg-name="ТВ-3" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",ТВ-3 (576p)
+http://51.195.44.53:8081/tv/tv3/playlist.m3u8
+#EXTINF:-1 tvg-id="TVR24.ru" tvg-name="ТВР24" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",ТВР24 (Сергиев Посад) (1080p)
+https://live-tvr24.cdnvideo.ru/tvr24/tvr24.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVTUR.ru" tvg-name="ТВТУР" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",ТВТУР (720p)
+https://strm.yandex.ru/kal/tvtour/tvtour0.m3u8
+#EXTINF:-1 tvg-id="TDK.ru" tvg-name="ТДК" tvg-country="RU" tvg-language="Russian" tvg-logo="https://iptvx.one/icn/tdk.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",ТДК
+http://89.106.234.5:80/TDK-42_34_35.m3u8
+#EXTINF:-1 tvg-id="TDK.ru" tvg-name="ТДК" tvg-country="RU" tvg-language="Russian" tvg-logo="https://iptvx.one/icn/tdk.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",ТДК (720p)
+https://strm.yandex.ru/kal/tdk_supres/tdk_supres0.m3u8
+#EXTINF:-1 tvg-id="Telekanal86.ru" tvg-name="Телеканал 86" tvg-country="RU" tvg-language="Russian" tvg-logo="http://online-red.com/images/tv/86.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Телеканал 86 (Сургут)
+https://sitv.ru/hls/s861024.m3u8
+#EXTINF:-1 tvg-id="Teleputeshestviya.ru" tvg-name="Телепутешествия" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Телепутешествия (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s71/index.m3u8
+#EXTINF:-1 tvg-id="TNVPlaneta.ru" tvg-name="ТНВ-Планета" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",ТНВ-Планета
+http://tnv.bonus-tv.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TNT.ru" tvg-name="ТНТ" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",ТНТ (576p)
+http://147.135.210.90:8081/tv/tnt/playlist.m3u8
+#EXTINF:-1 tvg-id="TNTInternational.ru" tvg-name="ТНТ International" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",ТНТ International
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s19/04.m3u8
+#EXTINF:-1 tvg-id="Tolyatti24.ru" tvg-name="Тольятти 24" tvg-country="RU" tvg-language="Russian" tvg-logo="http://ladamedia.ru/site/upload/lBPQBGJZ1hc.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Тольятти 24
+http://91.234.108.26/hls-live/livepkgr/_definst_/liveevent1/vazlivestream1.m3u8
+#EXTINF:-1 tvg-id="Tonus.ru" tvg-name="Тонус" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/mVhchwI.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Тонус (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s90/index.m3u8
+#EXTINF:-1 tvg-id="TriAngela.ru" tvg-name="Три Ангела" tvg-country="RU" tvg-language="Russian" tvg-logo="https://www.3angels.ru/assets/img/themes/logo-menu.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Три Ангела
+https://hls.tv.3angels.ru/stream/HQ.m3u8
+#EXTINF:-1 tvg-id="TuganTel.ru" tvg-name="Туган Тел" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/6rbVqcY.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Туган Тел (576p)
+http://streamer.rtcommufa.ru:1935/tugantel/tugantel1/playlist.m3u8
+#EXTINF:-1 tvg-id="Udmurtiya.ru" tvg-name="Удмуртия" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Удмуртия (404p)
+https://hls-myudm.cdnvideo.ru/myudm-live/myudm.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Uzhastik.ru" tvg-name="Ужастик" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Ужастик
+https://autopilot.catcast.tv/content/38896/index.m3u8
+#EXTINF:-1 tvg-id="FantastikaSciFi.ru" tvg-name="Фантастика Sci-Fi" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Фантастика Sci-Fi
+https://autopilot.catcast.tv/content/38801/index.m3u8
+#EXTINF:-1 tvg-id="Futbol.ru" tvg-name="Футбол" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/g24DSFV.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Футбол (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s41/index.m3u8
+#EXTINF:-1 tvg-id="HuzurTV.ru" tvg-name="Хузур ТВ" tvg-country="RU" tvg-language="Russian" tvg-logo="https://static.tildacdn.com/tild6230-3662-4537-a334-363564306535/Untitled-4.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Хузур ТВ
+http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1//chunklist.m3u8
+#EXTINF:-1 tvg-id="HuzurTV.ru" tvg-name="Хузур ТВ" tvg-country="RU" tvg-language="Russian" tvg-logo="https://static.tildacdn.com/tild6230-3662-4537-a334-363564306535/Untitled-4.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Хузур ТВ (720p)
+https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="Centralnoetelevidenie.ru" tvg-name="Центральное телевидение" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/2Ydfgw4.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Центральное телевидение (ЦТВ) (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s20/index.m3u8
+#EXTINF:-1 tvg-id="ShansonTV.ru" tvg-name="Шансон ТВ" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/NBWyJJQ.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Шансон ТВ (512p)
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ShansonTV.ru" tvg-name="Шансон ТВ" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/NBWyJJQ.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Шансон ТВ (576p)
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ShansonTV.ru" tvg-name="Шансон ТВ" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/NBWyJJQ.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Шансон ТВ (576p)
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ShansonTV.ru" tvg-name="Шансон ТВ" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/NBWyJJQ.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Шансон ТВ (576p)
+http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ShansonTV.ru" tvg-name="Шансон ТВ" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/NBWyJJQ.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Шансон ТВ (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s43/index.m3u8
+#EXTINF:-1 tvg-id="ShansonTV.ru" tvg-name="Шансон ТВ" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/NBWyJJQ.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Шансон ТВ (576p)
+https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ShchyolkovskoeTV.ru" tvg-name="Щёлковское ТВ" tvg-country="RU" tvg-language="Russian" tvg-logo="http://tv41.ru/images/00.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Щёлковское ТВ
+http://stream0.tv41.ru/live.m3u8
+#EXTINF:-1 tvg-id="EhoTV.ru" tvg-name="Эхо TV" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Эхо TV (Рязань) (576p)
+https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Yu.ru" tvg-name="Ю" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Ю (576p)
+http://51.68.141.106:8081/tv/u-3sa/playlist.m3u8
+#EXTINF:-1 tvg-id="Yugra.ru" tvg-name="Югра" tvg-country="RU" tvg-language="Russian" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ugra_tv.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Югра (576p)
+http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Yurgan.ru" tvg-name="Юрган" tvg-country="RU" tvg-language="Russian" tvg-logo="http://www.xn--80af5aj3e.xn--p1ai/assets/images/logo.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",Юрган
+http://yurgan.bonus-tv.ru/cdn/yurgan/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-id="YuTV.ru" tvg-name="ЮТВ" tvg-country="RU" tvg-language="Russian" tvg-logo="" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Russia",ЮТВ (Чебоксары) (432p)
+http://serv24.vintera.tv:8081/utv/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="KC2.rw" tvg-name="KC2" tvg-country="RW" tvg-language="Kinyarwanda" tvg-logo="https://i.imgur.com/13N8UX5.jpg" tvg-url="" group-title="Rwanda",KC2
+https://player.qtv.gm/hls/live.stream.m3u8
+#EXTINF:-1 tvg-id="1TV.ge" tvg-name="1TV" tvg-country="GE" tvg-language="Georgian" tvg-logo="https://i.imgur.com/0LJRlFz.png" tvg-url="" group-title="Georgia",1TV
+https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="1TV.ge" tvg-name="1TV" tvg-country="GE" tvg-language="Georgian" tvg-logo="https://i.imgur.com/mX080in.png" tvg-url="" group-title="Georgia",1TV
+https://tv.cdn.xsg.ge/gpb-1tv/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="2TV.ge" tvg-name="2TV" tvg-country="GE" tvg-language="Georgian" tvg-logo="https://i.imgur.com/VBmQCH7.png" tvg-url="" group-title="Georgia",2TV
+https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="EnkiBenki.ge" tvg-name="Enki Benki" tvg-country="GE" tvg-language="Georgian" tvg-logo="https://i.imgur.com/RJAT25i.jpg" tvg-url="" group-title="Georgia",Enki Benki
+http://94.43.239.178:8080/CHANNEL678/BITRATE0/playlist.m3u8
+#EXTINF:-1 tvg-id="Formula.ge" tvg-name="Formula" tvg-country="GE" tvg-language="Georgian" tvg-logo="https://i.imgur.com/fsqBn8G.png" tvg-url="" group-title="Georgia",Formula
+https://c4635.cdn.xsg.ge/c4635/TVFormula/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MusicBoxGeorgia.ge" tvg-name="MusicBox Georgia" tvg-country="GE" tvg-language="Georgian" tvg-logo="https://i.imgur.com/ku9kLp8.png" tvg-url="" group-title="Georgia",MusicBox Georgia
+http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8
+#EXTINF:-1 tvg-id="PalitraNews.ge" tvg-name="Palitra News" tvg-country="GE" tvg-language="Georgian" tvg-logo="https://i.imgur.com/9QVZGow.png" tvg-url="" group-title="Georgia",Palitra News
+https://live.palitranews.ge/hls/palitratv/index.m3u8
+#EXTINF:-1 tvg-id="PalitraNews.ge" tvg-name="Palitra News" tvg-country="GE" tvg-language="Georgian" tvg-logo="https://i.imgur.com/AqSRphj.png" tvg-url="" group-title="Georgia",Palitra News
+https://livestream.palitra.ge/hls/palitratv/index.m3u8
+#EXTINF:-1 tvg-id="Rustavi2.ge" tvg-name="Rustavi 2" tvg-country="GE" tvg-language="Georgian" tvg-logo="http://www.rustavi2.ge/img/logo2018_ka.png" tvg-url="" group-title="Georgia",Rustavi 2
+https://md-store4.tulix.tv/rustavi2/index.m3u8
